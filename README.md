@@ -147,7 +147,7 @@ show ip nat translations
 show ip nat statistics
 ```
 
-See the [verification checklist](verification/verification-checklist.md).
+See the [verification checklist](https://github.com/arpan3a/ccna-multisite-enterprise-network/tree/main/verification).
 
 
 ## Learning outcomes
